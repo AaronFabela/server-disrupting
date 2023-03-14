@@ -6,7 +6,7 @@ import authRoutes from './routes/Auth.routes.js'
 
 const app = express()
 
-// Settings
+// Settingss
 app.use(cors())
 app.use(morgan('dev'))
 
